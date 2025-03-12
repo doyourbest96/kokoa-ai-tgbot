@@ -1,0 +1,4 @@
+nest_asyncio
+openai
+platform
+python-telegram-bot
